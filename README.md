@@ -2,13 +2,16 @@
 SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 **AIM**
+
 To simulate and synthesis finite state machine using vivado.
 
 **APPARATUS REQUIRED**
 
+
 vivado 2023.2.
 
 **PROCEDURE**
+
 
 STEP:1 Start the vivado software, Select and Name the New project.
 
